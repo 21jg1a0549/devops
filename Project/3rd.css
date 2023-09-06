@@ -1,11 +1,11 @@
 body{
-    background-image: url(logo5.jpg);
+    background-image: url(logo7.jpg);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-/CSS Reset/
+
 *{
     margin:0px;
     padding:0px;
